@@ -1,0 +1,19 @@
+# Core Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+
+# Computer Vision
+opencv-python>=4.7.0
+Pillow>=9.5.0
+
+# Training & Evaluation
+tqdm>=4.65.0
+
+# Web Interface (Optional)
+flask>=2.3.0
+
+# Note: Install PyTorch with CUDA support for GPU training
+# Visit: https://pytorch.org/get-started/locally/
+# Example for CUDA 11.8:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118

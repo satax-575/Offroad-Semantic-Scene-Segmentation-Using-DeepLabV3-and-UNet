@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data (don't commit large datasets)
+data/
+*.png
+*.jpg
+*.jpeg
+!templates/*.html
+
+# Outputs
+predictions*/
+static/uploads/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+training_results.json
+ensemble_predict.py
+
+# Cleanup and troubleshooting files (not needed in repo)
+cleanup_unnecessary_files.bat
+CLEAN_AND_USE_LFS.md
+FIX_GITHUB_PUSH.md
+FIX_NOW.md
+QUICK_FIX.md
+fix_git.bat
+download_models.py
