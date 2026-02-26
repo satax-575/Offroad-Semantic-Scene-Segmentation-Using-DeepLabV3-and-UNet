@@ -314,37 +314,4 @@ pip install --upgrade torch torchvision
 
 ---
 
-## 📞 Contact
-
-For questions or issues:
-- Check PROJECT_REPORT.md for detailed documentation
-- Review code comments in source files
-- Ensure all dependencies are installed
-
----
-
-## 📄 License
-
-This project is submitted for the Offroad Segmentation Competition.  
-All code and models are provided for evaluation purposes.
-
----
-
-## ✅ Submission Checklist
-
-- [x] Training scripts (train.py, train_both_models.py)
-- [x] Inference scripts (test.py, predict.py, batch_predict.py)
-- [x] Model architectures (model.py)
-- [x] Configuration files (config.py)
-- [x] Data loading (dataset.py)
-- [x] Loss functions and metrics (utils.py)
-- [x] Pre-trained models (checkpoints/)
-- [x] Evaluation script (evaluate.py)
-- [x] Requirements file (requirements.txt)
-- [x] Comprehensive documentation (README.md, PROJECT_REPORT.md)
-- [x] Web demo (app.py, templates/)
-
----
-
 **Final Performance: 0.73 IoU**  
-**Status: Ready for Submission** ✅
