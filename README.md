@@ -1,6 +1,6 @@
 # Offroad Terrain Segmentation - Competition Submission
 
-**Team:** AI Segmentation Team  
+**Team:** Error_404  
 **Final IoU Score:** 0.73 (73% accuracy)  
 **Models:** UNet + DeepLabV3 Ensemble with Test-Time Augmentation
 
